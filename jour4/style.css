@@ -1,0 +1,19 @@
+.jumbotron {
+    background-image: url("surfing1.jpg");
+    height: 450px;
+    background-repeat: no-repeat;
+    background-position: center;
+    background-size: cover;
+    display: flex;
+    justify-content: center;
+    flex-direction: column;
+    padding: top 25px;
+}
+
+h1 {
+    text-align: center;
+}
+
+.material-symbols-outlined {
+    font-variation-settings: 'FILL' 0, 'wght' 800, 'GRAD' 0, 'opsz' 100
+}
